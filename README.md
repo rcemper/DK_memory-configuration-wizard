@@ -1,4 +1,4 @@
-# isc-json_docker
+# IRIS-memory-configuration-wizard_docker
 The OEX package just uses a modest IRIS instance in Docker     
 It merges IPM package of MDX2JSON with some demo data    
 It is built using the small [Mini-Docker-Template](https://github.com/r-cemper/mini-docker)    
@@ -7,7 +7,7 @@ Make sure you have [git](https://git-scm.com/book/en/v2/Getting-Started-Installi
 ### Installation
 Clone/git pull the repo into any local directory
 ```
-$ git clone https://github.com/rcemper/isc-json_docker.git
+$ git clone https://github.com/r-cemper/IRIS-memory-configuration-wizard_docker.git
 ```
 To build and start the container run:
 ```
@@ -27,5 +27,5 @@ To access IRIS System Management Portal
 http://localhost:42773/csp/sys/UtilHome.csp
 ```
 ### How to use it
-This presents OEX package [isc-json](https://openexchange.intersystems.com/package/isc-json) using the actual IPM module    
-All user documentation is found there in the [original repo](https://github.com/intersystems/isc-json/blob/master/docs/user-guide.md)  
+This presents OEX package [IRIS memory configuration wizard](https://github.com/r-cemper/IRIS-memory-configuration-wizard_docker) using the actual IPM module    
+All user documentation is found there in the [original repo](https://github.com/bdeboe/isc-mem-config/blob/main/README.md)     

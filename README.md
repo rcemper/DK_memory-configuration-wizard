@@ -29,3 +29,4 @@ http://localhost:42773/csp/sys/UtilHome.csp
 ### How to use it
 This presents OEX package [IRIS memory configuration wizard](https://github.com/r-cemper/IRIS-memory-configuration-wizard_docker) using the actual IPM module    
 All user documentation is found there in the [original repo](https://github.com/bdeboe/isc-mem-config/blob/main/README.md)     
+- [Launch Configurator](http://localhost:42773/csp/mem-config/configurator.html)
